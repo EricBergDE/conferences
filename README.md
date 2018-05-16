@@ -2,4 +2,4 @@
 
 This repository will contain the content from my conference sessions.
 
-Starting with CDC Germany 2018...
+[CDC Germany 2018 in Hanau](./CDC Germany 2018)
