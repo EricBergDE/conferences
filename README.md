@@ -7,4 +7,6 @@ This repository will contain the content from my conference and usergroup sessio
 [CDUG DK in Lyngby](https://github.com/EricBergDE/conferences/tree/master/CDUG%20DK)
 
 [Azure Saturday 2018 in Munich](https://github.com/EricBergDE/conferences/tree/master/Azure%20Saturday%202018)
+
 [Intelligent Cloud Conference 2018 in Copenhagen](https://github.com/EricBergDE/conferences/tree/master/Intelligent%20Cloud%20Conference%202018)
+
