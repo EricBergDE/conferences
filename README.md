@@ -10,3 +10,5 @@ This repository will contain the content from my conference and usergroup sessio
 
 [Intelligent Cloud Conference 2018 in Copenhagen](https://github.com/EricBergDE/conferences/tree/master/Intelligent%20Cloud%20Conference%202018)
 
+[Experts Live NL 2018 in Ede](https://github.com/EricBergDE/conferences/tree/master/Experts%20Live%20NL%202018)
+
