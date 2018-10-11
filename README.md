@@ -14,3 +14,4 @@ This repository will contain the content from my conference and usergroup sessio
 
 [Experts Live NL 2018 in Ede](https://github.com/EricBergDE/conferences/tree/master/Experts%20Live%20NL%202018)
 
+[Azure Meetup Bonn 2018](https://github.com/EricBergDE/conferences/tree/master/Azure%20Meetup%20Bonn%202018)
