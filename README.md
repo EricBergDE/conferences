@@ -17,3 +17,5 @@ This repository will contain the content from my conference and usergroup sessio
 [Azure Meetup Bonn 2018](https://github.com/EricBergDE/conferences/tree/master/AzureMeetupBonn2018)
 
 [CloudBrew Belgium 2018](https://github.com/EricBergDE/conferences/tree/master/CloudBrew2018)
+
+[CloudCamp Dublin 2018](https://github.com/EricBergDE/conferences/tree/master/CloudCamp2018)
