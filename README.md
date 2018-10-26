@@ -4,6 +4,8 @@ This repository will contain the content from my conference and usergroup sessio
 
 [Microsoft Ignite 2018 in Orlando](https://github.com/EricBergDE/conferences/tree/master/MicrosoftIgnite2018)
 
+[Experts Live Europe 2018 in Prague](https://github.com/EricBergDE/conferences/tree/master/ExpertsLiveEU2018)
+
 [CDC Germany 2018 in Hanau](https://github.com/EricBergDE/conferences/tree/master/CDCGermany2018)
 
 [CDUG DK in Lyngby](https://github.com/EricBergDE/conferences/tree/master/CDUGDK)
