@@ -2,6 +2,8 @@
 
 This repository will contain the content from my conference and usergroup sessions.
 
+[Microsoft Ignite | The Tour 2018 in Berlin](https://github.com/EricBergDE/conferences/tree/master/MicrosoftIgniteTheTourBerlin2018)
+
 [Microsoft Ignite 2018 in Orlando](https://github.com/EricBergDE/conferences/tree/master/MicrosoftIgnite2018)
 
 [Experts Live Europe 2018 in Prague](https://github.com/EricBergDE/conferences/tree/master/ExpertsLiveEU2018)
