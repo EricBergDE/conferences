@@ -2,6 +2,8 @@
 
 This repository will contain the content from my conference and usergroup sessions.
 
+[Azure Meetup Bonn 2019](https://github.com/EricBergDE/conferences/tree/master/AzureMeetupBonn2019)
+
 [Microsoft Ignite | The Tour 2018 in Berlin](https://github.com/EricBergDE/conferences/tree/master/MicrosoftIgniteTheTourBerlin2018)
 
 [Microsoft Ignite 2018 in Orlando](https://github.com/EricBergDE/conferences/tree/master/MicrosoftIgnite2018)
@@ -23,3 +25,4 @@ This repository will contain the content from my conference and usergroup sessio
 [CloudBrew Belgium 2018](https://github.com/EricBergDE/conferences/tree/master/CloudBrew2018)
 
 [CloudCamp Dublin 2018](https://github.com/EricBergDE/conferences/tree/master/CloudCamp2018)
+
