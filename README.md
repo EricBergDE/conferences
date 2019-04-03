@@ -2,6 +2,8 @@
 
 This repository will contain the content from my conference and usergroup sessions.
 
+[Microsoft Ignite | The Tour 2019 in Seoul](https://github.com/EricBergDE/conferences/tree/master/MicrosoftIgniteTheTourSeoul2019)
+
 [AzureDay Poland 2019](https://github.com/EricBergDE/conferences/tree/master/AzureDayPoland2019)
 
 [Azure Meetup Bonn 2019](https://github.com/EricBergDE/conferences/tree/master/AzureMeetupBonn2019)
