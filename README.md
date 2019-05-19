@@ -2,7 +2,7 @@
 
 This repository will contain the content from my conference and usergroup sessions.
 
-[Azure Saturday 201 in Munich](https://github.com/EricBergDE/conferences/tree/master/AzureSaturday20189)
+[Azure Saturday 2019 in Munich](https://github.com/EricBergDE/conferences/tree/master/AzureSaturday2019)
 
 [Intelligent Cloud Conference 2019 in Copenhagen](https://github.com/EricBergDE/conferences/tree/master/IntelligentCloudConference2019)
 
