@@ -2,6 +2,8 @@
 
 This repository will contain the content from my conference and usergroup sessions.
 
+[Experts Live Europe 2019 in Prague](https://github.com/EricBergDE/conferences/tree/master/ExpertsLiveEU2019)
+
 [CDC Germany 2019 in Hanau](https://github.com/EricBergDE/conferences/tree/master/CDCGermany2019)
 
 [Azure Saturday 2019 in Munich](https://github.com/EricBergDE/conferences/tree/master/AzureSaturday2019)
