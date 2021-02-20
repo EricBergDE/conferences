@@ -2,6 +2,8 @@
 
 This repository will contain the content from my conference and usergroup sessions.
 
+[AzureSaturdayHamburg2021](https://github.com/EricBergDE/conferences/tree/master/AzureSaturdayHamburg2021)
+
 [Azure Meetup Bonn 2020](https://github.com/EricBergDE/conferences/tree/master/AzureMeetupBonn2020)
 
 [CloudBrew Belgium 2019](https://github.com/EricBergDE/conferences/tree/master/CloudBrew2019)
