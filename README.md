@@ -4,13 +4,13 @@ This repository will contain the content from my conference and usergroup sessio
 
 # 2022
 
-[Experts Live Netherlands 2022](https://github.com/EricBergDE/conferences/tree/master/ExpertsLiveNetherlands2022)
+[Experts Live Netherlands 2022 in Den Bosch](https://github.com/EricBergDE/conferences/tree/master/ExpertsLiveNetherlands2022)
 
-[European Cloud Summit 2022](https://github.com/EricBergDE/conferences/tree/master/EuropeanCloudSummit2022)
+[European Cloud Summit 2022 in Mainz](https://github.com/EricBergDE/conferences/tree/master/EuropeanCloudSummit2022)
 
-[Cloud Identity Summit 2022](https://github.com/EricBergDE/conferences/tree/master/CloudIdentitySummit2022)
+[Cloud Identity Summit 2022 in Bonn](https://github.com/EricBergDE/conferences/tree/master/CloudIdentitySummit2022)
 
-[Experts Live Germany 2022](https://github.com/EricBergDE/conferences/tree/master/ExpertsLiveGermany2022)
+[Experts Live Germany 2022 in Erfurt](https://github.com/EricBergDE/conferences/tree/master/ExpertsLiveGermany2022)
 
 # 2021
 
