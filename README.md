@@ -4,6 +4,8 @@ This repository will contain the content from my conference and usergroup sessio
 
 # 2022
 
+[CloudBrew 2022 in Mechelen](https://github.com/EricBergDE/conferences/tree/master/CloudBrew2022)
+
 [Experts Live Netherlands 2022 in Den Bosch](https://github.com/EricBergDE/conferences/tree/master/ExpertsLiveNetherlands2022)
 
 [European Cloud Summit 2022 in Mainz](https://github.com/EricBergDE/conferences/tree/master/EuropeanCloudSummit2022)
