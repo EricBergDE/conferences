@@ -2,21 +2,35 @@
 
 This repository will contain the content from my conference and usergroup sessions.
 
+# 2023
+
+[Azure Lowlands 2023](https://github.com/EricBergDE/conferences/tree/master/AzureLowlands2023)
+
+[Experts Live Netherlands 2023 in Den Bosch](https://github.com/EricBergDE/conferences/tree/master/ExpertsLiveNL2023)
+
+[Azure Bootcamp CH 2023 in Bern](https://github.com/EricBergDE/conferences/tree/master/AzureBootcampCH2023)
+
 # 2022
 
 [ESPC 2022 in Copenhagen](https://github.com/EricBergDE/conferences/tree/master/ESPC2022)
 
 [CloudBrew 2022 in Mechelen](https://github.com/EricBergDE/conferences/tree/master/CloudBrew2022)
 
-[Experts Live Netherlands 2022 in Den Bosch](https://github.com/EricBergDE/conferences/tree/master/ExpertsLiveNetherlands2022)
+[Experts Live Netherlands 2022 in Den Bosch](https://github.com/EricBergDE/conferences/tree/master/ExpertsLiveNL2022)
 
 [European Cloud Summit 2022 in Mainz](https://github.com/EricBergDE/conferences/tree/master/EuropeanCloudSummit2022)
 
 [Cloud Identity Summit 2022 in Bonn](https://github.com/EricBergDE/conferences/tree/master/CloudIdentitySummit2022)
 
-[Experts Live Germany 2022 in Erfurt](https://github.com/EricBergDE/conferences/tree/master/ExpertsLiveGermany2022)
+[Experts Live Germany 2022 in Erfurt](https://github.com/EricBergDE/conferences/tree/master/ExpertsLiveDE2022)
+
+[Azure Lowlands 2022](https://github.com/EricBergDE/conferences/tree/master/AzureLowlands2022)
+
+[Experts Live Austria 2022 in Linz](https://github.com/EricBergDE/conferences/tree/master/ExpertsLiveAT2022)
 
 # 2021
+
+[Cloud Identity Summit 2021](https://github.com/EricBergDE/conferences/tree/master/CloudIdentitySummit2021)
 
 [Azure Saturday Belgrade 2021](https://github.com/EricBergDE/conferences/tree/master/AzureSaturdayBelgrade2021)
 
